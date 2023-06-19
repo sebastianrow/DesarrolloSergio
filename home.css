@@ -1,0 +1,25 @@
+#navbar p {
+  display: inline;
+}
+
+#navbar {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#firstgrid p {
+  text-align: justify;
+}
+
+#firstgrid {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+}
+
+#paragraph {
+  padding: 20px;
+}
+
+#firstgrid img {
+  width: 100%;
+}
